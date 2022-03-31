@@ -1,0 +1,16 @@
+## Ignore the folders not related to DocFX
+
+# Visual Studio  cache/options directory
+.vs/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+/**/DROP/
+/**/TEMP/
+/**/packages/
+/**/bin/
+/**/obj/
