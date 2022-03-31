@@ -1,0 +1,4 @@
+# Ignore the files and folders unrelated to the Website
+
+## Visual Studio  cache/options directory
+.vs/

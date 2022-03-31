@@ -1,0 +1,222 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/nicolas.montagne/Repositories/OurLibraryDocs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OurLibrary.Geometry.Euclidean.Point.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OurLibrary.Geometry.Euclidean.Point.html",
+          "hash": "IkAdGAwRE3zy08pKWk9Rl88fiqP8Y8w/QwgbzdCJF3I="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OurLibrary.Geometry.Euclidean.Vector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OurLibrary.Geometry.Euclidean.Vector.html",
+          "hash": "fkDLKIXLKgGZKQxLBioNfa3FZc2CdYZl9JKtZAhS77c="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OurLibrary.Geometry.Euclidean.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OurLibrary.Geometry.Euclidean.html",
+          "hash": "XTQuslV+xTPumozNax7xH/qxwdugOKNI9Z1zELlHELA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OurLibrary.Geometry.Point.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OurLibrary.Geometry.Point.html",
+          "hash": "NxyqMUeRK6LvmvItfzp4Q+uXN5XGbGxx5U9iHfSV3dI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OurLibrary.Geometry.Vector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OurLibrary.Geometry.Vector.html",
+          "hash": "DkgHAWI+a1dUteOd2kFBu5p8UB8cInYBSVWt3lR6SNo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OurLibrary.Geometry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OurLibrary.Geometry.html",
+          "hash": "LSRABQmrcBoA9uPjTUs9x7Rkpn1mlnpHBhPeV6Xb4sI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OurLibrary.Numerics.Complex.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OurLibrary.Numerics.Complex.html",
+          "hash": "vPeZYCjZQfAAyCjanGxmQCozCBs6zHDi6VhwEu5te9w="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OurLibrary.Numerics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OurLibrary.Numerics.html",
+          "hash": "NCTRbHxaaZZvuMt5wJ6oB2klWFQgFgXd99VFT2NVXXs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "y62bCGSFdLuW1zcKCjSbV7wKd5F66nOkl0Gjt0BN+uU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "lmRAzsZzOM/xp2nXJ7nWixuFUTT73z/xhvL/Ho5nxaY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "e8zlm/eNFqhvmbkDAxJWuD4DpEH8qv/UdCW6tUNpqT4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "itTPwJOwqUNMsntm/9PrRD/ELxYFy6IQ7LeyAu9gFsE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "WSuRrYiGwKKMbtdG9z8W9fXmLoCyTnGg9AxbPKLXm2Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 2
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 9,
+          "skipped_file_count": 9
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
