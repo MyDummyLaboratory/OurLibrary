@@ -1,9 +1,9 @@
 ﻿using System;
 
-namespace LabLibrary
+namespace OurLibrary.Geometry
 {
     /// <summary>
-    /// Class defining a point in 3D euclidean space
+    /// Class defining a point
     /// </summary>
     public class Point
     {

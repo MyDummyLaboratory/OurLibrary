@@ -1,9 +1,9 @@
 using System;
 
-namespace OurLibrary.Geometry
+namespace OurLibrary.Geometry.Euclidean
 {
     /// <summary>
-    /// Class defining a vector.
+    /// Class defining a vector  in 3D euclidean space.
     /// </summary>
     public class Vector
     {

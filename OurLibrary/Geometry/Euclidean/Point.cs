@@ -1,11 +1,11 @@
-using System;
+﻿using System;
 
-namespace OurLibrary.Geometry
+namespace OurLibrary.Geometry.Euclidean
 {
     /// <summary>
-    /// Class defining a vector.
+    /// Class defining a point in 3D euclidean space
     /// </summary>
-    public class Vector
+    public class Point
     {
         /// <summary>
         /// First coordinate of the point.
@@ -26,7 +26,7 @@ namespace OurLibrary.Geometry
         /// <param name="x"> First coordinate of the point. </param>
         /// <param name="y"> Second coordinate of the point. </param>
         /// <param name="z"> Third coordinate of the point. </param>
-        public Vector(double x, double y, double z)
+        public Point(double x, double y, double z)
         {
             X = x; Y = y; Z = z;
         }
